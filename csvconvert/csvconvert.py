@@ -14,7 +14,6 @@ for line in file.readlines():
     label = tmp[1].strip('\n')
     list.append(kfb+':0|'+map[label]+'|'+db)
     print(kfb+':0|'+map[label]+'|'+db)
-#outpath=r'C:\Users\TLCrow\Desktop\1\data.list'
 outpath='data.list'
 with open(outpath,'w') as f:
     for lis in list:

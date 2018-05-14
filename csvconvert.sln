@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "csvconvert", "csvconvert\csvconvert.pyproj", "{FB4C5A57-8EA2-4635-844A-83A637FADE2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB4C5A57-8EA2-4635-844A-83A637FADE2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB4C5A57-8EA2-4635-844A-83A637FADE2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC459938-46F3-4BF0-A099-C1990BFAA030}
+	EndGlobalSection
+EndGlobal
